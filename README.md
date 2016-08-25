@@ -5,3 +5,4 @@ pixiv
 kurazushi  
 suzuki  
 tarbric  
+ガルパンはいいぞ  
