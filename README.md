@@ -6,3 +6,4 @@ kurazushi
 suzuki  
 tarbric  
 ガルパンはいいぞ  
+あずさ２号  
