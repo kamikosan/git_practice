@@ -7,4 +7,5 @@ suzuki
 tarbric  
 ガルパンはいいぞ  
 あずさ２号  
-台風  
+台風
+kanaさん  
