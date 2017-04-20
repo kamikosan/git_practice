@@ -9,4 +9,6 @@ tarbric
 あずさ２号  
 台風
 kanaさん  
-代官山  
+代官山
+ISUCON
+社内ISUCONに参加することになったよ
