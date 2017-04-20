@@ -1,14 +1,14 @@
 # git_practice
-kamikosan  
-kitajisan  
-pixiv  
-kurazushi  
-suzuki  
-tarbric  
-ガルパンはいいぞ  
-あずさ２号  
+kamikosan
+kitajisan
+pixiv
+kurazushi
+suzuki
+tarbric
+ガルパンはいいぞ
+あずさ２号
 台風
-kanaさん  
+kanaさん
 代官山
 ISUCON
 社内ISUCONに参加することになったよ
